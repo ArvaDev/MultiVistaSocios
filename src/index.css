@@ -1,0 +1,15 @@
+*{
+  font-family: Raleway;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family:'font_1';
+  src: url('../src/assets/fonts/Namdhinggo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family:'font_2';
+  src: url('../src/assets/fonts/DancingScript-Regular.ttf') format('truetype');
+}
